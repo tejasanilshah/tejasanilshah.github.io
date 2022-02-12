@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Code"
+    url: /code/
+  - title: "Essays"
+    url: /essays/
+  - title: "About"
+    url: /about/
