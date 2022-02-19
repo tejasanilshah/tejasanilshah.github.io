@@ -1,8 +1,12 @@
 # main links
 main:
-  - title: "Code"
-    url: /code/
-  - title: "Essays"
-    url: /essays/
   - title: "About"
     url: /about/
+  - title: "Code"
+    url: /code/
+  - title: "Philosophy"
+    url: /philosophy/
+  - title: "Food"
+    url: /food/
+  - title: "Adventure"
+    url: /adventure/

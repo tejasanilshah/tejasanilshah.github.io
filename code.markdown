@@ -1,6 +1,7 @@
 ---
-layout: single
-title: Code
+layout: collection
+title: "Code"
+collection: code
 permalink: /code/
 ---
 
