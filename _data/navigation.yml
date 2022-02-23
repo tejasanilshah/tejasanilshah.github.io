@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: /about/
   - title: "Code"
-    url: /code/
+    url: /categories/code/
   - title: "Philosophy"
-    url: /philosophy/
+    url: /categories/philosophy/
   - title: "Food"
-    url: /food/
+    url: /categories/food/
   - title: "Adventure"
-    url: /adventure/
+    url: /categories/adventure/

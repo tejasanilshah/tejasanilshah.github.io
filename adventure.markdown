@@ -1,8 +1,8 @@
 ---
-layout: collection
-title: "Adventure"
-collection: adventure
-permalink: /adventure/
+title: Adventure
+layout: category
+permalink: /categories/adventure/
+taxonomy: adventure
 ---
 
 Placeholder for now.

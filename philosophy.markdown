@@ -1,8 +1,8 @@
 ---
-layout: collection
-collection: philosophy
-title: "Philosophy"
-permalink: /philosophy/
+title: Philosophy
+layout: category
+permalink: /categories/philosophy/
+taxonomy: philosophy
 ---
 
 Placeholder for now.

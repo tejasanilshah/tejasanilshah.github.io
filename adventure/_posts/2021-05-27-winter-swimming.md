@@ -9,7 +9,8 @@ No, the title isn’t clickbait.
 
 Great, now that that’s out of the way I need to make a brief detour to set the stage for the event that I took part in. I promise it is going to be worth your while and will give you some cultural context.
 
-In Estonia they have a children’s song called Uhti, Uhti, Uhkesti. If you are an Estonian reading this, you can probably already hear the tune. For the rest of us though the song is about three friends; a shoe, a water bladder (balloon/bottle thingy), and a straw, all wanting to cross the river, Emajõgi. The straw lies down to be the bridge and the shoe while trying to cross it breaks the straw and drowns. On seeing this the balloon laughs himself to death.
+In Estonia they have a children’s song called Uhti, Uhti, Uhkesti. If you are an Estonian reading this, you can probably already hear the tune. For the rest of us though the song is about three friends;
+ a shoe, a water bladder (balloon/bottle thingy), and a straw, all wanting to cross the river, Emajõgi. The straw lies down to be the bridge and the shoe while trying to cross it breaks the straw and drowns. On seeing this the balloon laughs himself to death.
 
 Now, I can almost hear the questions that you have!
 Is this song really for children? Yes.
@@ -47,13 +48,42 @@ The translation was provided by Uku Kangur, and Oliver Vainumäe helped improve 
 Uku tried to make the English version rhyme too. Enjoy!
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
-.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg  {
+  border-collapse:collapse;
+  border-color:#ccc;
+  border-spacing:0;
+}
+.tg td{background-color:#fff;
+border-color:#ccc;
+border-style:solid;
+border-width:1px;
+color:#333;
+font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+font-size:1em;
+overflow:hidden;
+padding:10px 5px;
+word-break:normal;
+line-height: 1.5;
+}
+.tg th{
+background-color:#f0f0f0;
+border-color:#ccc;
+border-style:solid;
+border-width:1px;
+color:#333;
+font-family:-apple-system,BlinkMacSystemFont,"Roboto","Segoe UI","Helvetica Neue","Lucida Grande",Arial,sans-serif;
+font-size:1em;
+font-weight:normal;
+overflow:hidden;
+padding:10px 5px;
+word-break:normal;
+line-height: 1.5;
+}
+.tg .tg-0pky{border-color:inherit;
+text-align:left;
+vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -63,8 +93,12 @@ Uku tried to make the English version rhyme too. Enjoy!
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Uhti-uhti uhkesti,<br>Viisk läks Tartust Viljandi,<br>Kaasas põis ja õlekõrs,<br>Õlekõrs kui sääseõrs!<br><br>Ei saa üle Emajõest,<br>Hüva nõu nüüd kallis tõest.<br> <br>Viisk siis ütles targasti<br>Oma seltsilistele:<br>“Otsas häda, otsas vaev.<br>Põis on meil kui loodud laev.<br> <br>Kõrs on mastiks kõlbulik;<br>Mina olen laevnik.”<br> <br>Põis aga vastas põrinal,<br>Väga kõva kõri tal:<br>“Viisu nõu on Imelik:<br>Laev see olgu laberik.<br> <br>Vaatke kui ma veeren vees,<br>Kohe oletegi sees!”<br> <br>Kõrs siis heitis pikali,<br>Sillakene valmis nii;<br>Viisk see hüüdis: “Sild on hea!<br>Mina sammun üle pea!”<br> <br>Astus sammu, astus kaks:<br>Sillakene katki: praks!<br> <br>Põnnadi, põnnadi hüppas põis,<br>Naeris, mis ta naerda võis!<br>“Vaata kuidas rumalad<br>Uppusivad mõlemad!”<br> <br>Tõmbas ennast õhku täis<br>Ja karplauhti lõhki käis!<br></td>
-    <td class="tg-0pky">Uhti-uhti uhkesti,<br>The bast shoe went from Tartu to Viljandi,<br>Together with a balloon and a straw,<br>The straw as thin as a fly’s jaw!<br> <br>Can’t get over Emajõgi,<br>Good advice is needed now!<br> <br>The bast shoe then said wisely<br>to his companions, brightly:<br>“End of trouble, end of suffering.<br>The balloon is like a born ship.<br> <br>The straw will do as a mast;<br>I will be the captain at last.”<br> <br>The balloon answered in a rumbling voice,<br>loudly as his throat can be:<br>“The shoe’s advice is quite weird:<br>The boat should be engineered.<br> <br>See how I roll in the water,<br>You will soon be underwater!”<br> <br>The straw then laid down on it’s back,<br>A bridge was ready just like that;<br>The bast shoe shouted: “The bridge is good!<br>I will cross it as I could!”<br> <br>He took a step, he took a few:<br>The bridge then broke: crack-a-doo!<br> <br>Boing, boing jumped the balloon<br>Laughed as much as he could!<br>“Look at them, as foolish they are<br>Both are drowned, without a scar!”<br> <br>The laughter inflated him fully<br>And kaboom, he exploded unruly!<br></td>
+    <td class="tg-0pky">Uhti-uhti uhkesti,<br>Viisk läks Tartust Viljandi,<br>Kaasas põis ja õlekõrs,<br>Õlekõrs kui sääseõrs!<br><br>Ei saa üle Emajõest,<br>Hüva nõu nüüd kallis tõest.<br> <br>Viisk siis ütles targasti<br>Oma seltsilistele:<br>“Otsas häda, otsas vaev.<br>Põis on meil kui loodud laev.<br> <br>Kõrs on mastiks kõlbulik;
+<br>Mina olen laevnik.”<br> <br>Põis aga vastas põrinal,<br>Väga kõva kõri tal:<br>“Viisu nõu on Imelik:<br>Laev see olgu laberik.<br> <br>Vaatke kui ma veeren vees,<br>Kohe oletegi sees!”<br> <br>Kõrs siis heitis pikali,<br>Sillakene valmis nii;
+<br>Viisk see hüüdis: “Sild on hea!<br>Mina sammun üle pea!”<br> <br>Astus sammu, astus kaks:<br>Sillakene katki: praks!<br> <br>Põnnadi, põnnadi hüppas põis,<br>Naeris, mis ta naerda võis!<br>“Vaata kuidas rumalad<br>Uppusivad mõlemad!”<br> <br>Tõmbas ennast õhku täis<br>Ja karplauhti lõhki käis!<br></td>
+    <td class="tg-0pky">Uhti-uhti uhkesti,<br>The bast shoe went from Tartu to Viljandi,<br>Together with a balloon and a straw,<br>The straw as thin as a fly’s jaw!<br> <br>Can’t get over Emajõgi,<br>Good advice is needed now!<br> <br>The bast shoe then said wisely<br>to his companions, brightly:<br>“End of trouble, end of suffering.<br>The balloon is like a born ship.<br> <br>The straw will do as a mast;
+<br>I will be the captain at last.”<br> <br>The balloon answered in a rumbling voice,<br>loudly as his throat can be:<br>“The shoe’s advice is quite weird:<br>The boat should be engineered.<br> <br>See how I roll in the water,<br>You will soon be underwater!”<br> <br>The straw then laid down on it’s back,<br>A bridge was ready just like that;
+<br>The bast shoe shouted: “The bridge is good!<br>I will cross it as I could!”<br> <br>He took a step, he took a few:<br>The bridge then broke: crack-a-doo!<br> <br>Boing, boing jumped the balloon<br>Laughed as much as he could!<br>“Look at them, as foolish they are<br>Both are drowned, without a scar!”<br> <br>The laughter inflated him fully<br>And kaboom, he exploded unruly!<br></td>
   </tr>
 </tbody>
 </table>

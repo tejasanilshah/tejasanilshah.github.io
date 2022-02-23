@@ -1,8 +1,8 @@
 ---
-layout: collection
-title: "Code"
-collection: code
-permalink: /code/
+title: Code
+layout: category
+permalink: /categories/code/
+taxonomy: code
 ---
 
 Placeholder for now.

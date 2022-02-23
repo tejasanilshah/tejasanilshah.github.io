@@ -1,8 +1,8 @@
 ---
-layout: collection
-title: "Food"
-collection: food
-permalink: /food/
+title: Food
+layout: category
+permalink: /categories/food/
+taxonomy: food
 ---
 
 Placeholder for now.
