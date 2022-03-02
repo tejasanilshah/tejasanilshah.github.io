@@ -5,5 +5,4 @@ permalink: /categories/adventure/
 taxonomy: adventure
 ---
 
-Placeholder for now.
-Will populate with adventure essays soon.
+I love adventures.<br>Here is a collection of some amazing things that were worth writing about.
