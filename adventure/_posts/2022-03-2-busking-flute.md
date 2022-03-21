@@ -4,7 +4,7 @@ classes: wide
 title:  "Busking in Romania"
 collection: adventure
 tags: music busking meta bucket-list
-excerpt: "Story and thoughts about my street performance in Brașov, a quiet Romanian city surronded by the Carpathian Mountains"
+excerpt: "Story and thoughts about my street performance in Brașov, a quiet Romanian city surrounded by the Carpathian Mountains"
 ---
 
 For a very long time I've wanted to learn how to play a musical instrument. When I was in Israel in 2019, I had the opportunity to borrow a Bansuri from an old man in the village and practice it in a quiet place.
