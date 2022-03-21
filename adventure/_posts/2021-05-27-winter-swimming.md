@@ -4,9 +4,13 @@ classes: wide
 title:  "Crazy Winter Swimming in Estonia"
 collection: adventure
 tags: winter-swimming estonia
+excerpt: "No, the title isn’t clickbait"
 header:
   image: /assets/images/winter-swimming/cover.jpg
+
 ---
+*This post was originally written for the International Student Ambassador blog and was first published [here](https://isa.ut.ee/blog/crazy-winter-swimming-in-estonia-tejas-india/) on 27-May-2021.*
+
 No, the title isn’t clickbait.
 
 Great, now that that’s out of the way I need to make a brief detour to set the stage for the event that I took part in. I promise it is going to be worth your while and will give you some cultural context.
@@ -110,5 +114,3 @@ vertical-align:top}
   </tr>
 </tbody>
 </table>
-
-
