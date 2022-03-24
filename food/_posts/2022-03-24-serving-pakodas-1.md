@@ -4,7 +4,7 @@ classes: wide
 title:  "Serving Pakodas in the Estonian Summer - I"
 collection: food
 tags: work-experience estonia food
-excerpt: "As an international student I am always looking for ways to have interesting experiences..."
+excerpt: "As an international student I am always looking for ways to have interesting experiences"
 header:
   image: /assets/images/food-truck/food_display.jpg
 

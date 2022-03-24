@@ -4,7 +4,7 @@ classes: wide
 title:  "Crazy Winter Swimming in Estonia"
 collection: adventure
 tags: winter-swimming estonia
-excerpt: "No, the title isn’t clickbait"
+excerpt: "No, the title isn’t clickbait."
 header:
   image: /assets/images/winter-swimming/cover.jpg
 

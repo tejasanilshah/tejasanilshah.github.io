@@ -5,4 +5,4 @@ permalink: /categories/adventure/
 taxonomy: adventure
 ---
 
-I love adventures.<br>Here is a collection of some experiences of mine that were worth writing about.
+I love adventures and I've been on a few unique ones.<br>Here is a collection of some of those that were worth writing about.
