@@ -9,7 +9,7 @@ header:
   image: /assets/images/winter-swimming/cover.jpg
 
 ---
-*This post was originally written for the International Student Ambassador blog and was first published [here](https://isa.ut.ee/blog/crazy-winter-swimming-in-estonia-tejas-india/) on 27-May-2021.*
+*This post was originally written for the [International Student Ambassador blog](https://isa.ut.ee/blog/) and was first published [here](https://isa.ut.ee/blog/crazy-winter-swimming-in-estonia-tejas-india/) on 27-May-2021.*
 
 No, the title isn’t clickbait.
 
@@ -31,22 +31,19 @@ Alright, now you have some context. The other thing you need to know is that I�
 
 So on 8-May a team of 14 swimmers set out to swim at 6:00AM. To be honest, the difficulty of the task ahead of me didn’t hit me until I got on the boat and the first swimmer got into the water. Now, the funny thing about boats is that the only way out is by swimming! There was no going back now, and I decided that I would make it to the finish line. Thankfully it was a relay event, and wasn’t a competition. The idea was that there was always someone from the team swimming. We had a boat, Signild, trailing the swimmer with the rest of the team onboard. In one round, a swimmer swims as much as they can. Then when they’re tired, they give a signal to the team and someone taps in. Additionally, the boat had a sauna, which was the recovery room for the swimmer who tapped out.
 
-
-![Swimmers tapping out and sauna on the boat](/assets/images/winter-swimming/tap-and-sauna.png)
-*Picture credits: Risto Mets, Mart Nöpps*
+{% include figure image_path="/assets/images/winter-swimming/tap-and-sauna.png" alt="Swimmers tapping out and sauna on the boat" caption="*Picture credits: Risto Mets, Mart Nöpps*" %}
 
 
 Even though we were swimming with the current, the conditions were, to put it mildly, harsh. There was rain, hail, strong winds, and cross currents along the way. The water temperature on average was 8°C, and the air temperature varied between 3-15°C. Since I come from Southern India, this kind of cold is something that is quite alien to me. 
 This was crazy indeed, but I’d argue that it wasn’t completely insane. We took quite a lot of safety precautions. For instance, we had swimming buoys with beautiful messages like “Swim or Die!” written on them. These provide visibility for water traffic, and backup for a swimmer who needs help. And obviously the boat going along with the swimmers was the biggest safety net.
 
-![Swim or Die](/assets/images/winter-swimming/swim-or-die.png)
-*Picture credits: Egon Vaiksaar, Risto Mets*
+{% include figure image_path="/assets/images/winter-swimming/swim-or-die.png" alt="Swim or die!" caption="*Picture credits: Egon Vaiksaar, Risto Mets*" %}
+
 
 
 So one by one everyone started swimming and continuing the relay. By the end the team swam 7-8 rounds, and everyone swam about 7 minutes on average. There were some superhumans on the boat who could swim for 27 minutes non-stop. My personal best was 10 minutes. This is without a doubt the hardest I’ve pushed the limits of my body. So by the time we reached the outskirts of the city after 15 gruelling yet fun hours at around 9:00 PM I was exhausted. I was almost in tears when I saw the finish line. That’s when the entire team got into the water and all of us crossed the finish. I wouldn’t be able to express the emotions I felt at that point even if I tried. So, I will leave that to your imagination.
 
-![Finishing the swim](/assets/images/winter-swimming/finish.png)
-*Picture credits: Tiit Linde, Margus Ansu /Tartu Postimees / Scanpix*
+{% include figure image_path="/assets/images/winter-swimming/finish.png" alt="Finishing the swim" caption="*Picture credits: Tiit Linde, Margus Ansu /Tartu Postimees / Scanpix*" %}
 
 
 On the boat, there were a lot of cultural elements which became really clear. For instance, the Estonian diet consists of a lot of meat. With plant-based diets becoming more popular this is changing slowly, but there is no denying the fact that meat plays a central role on the plates here. I knew there would be some vegetarian food on the boat, but I erred on the side of caution and took some hummus, bread, and fruits with me. This was one of the best things I did. Another observation is that Estonians love dark humour, and you will be the target of one or more jokes. If you are in good company, it is usually light-hearted and the only acceptable response to that is to make another joke. So, if you can make self-depreciatory jokes and speak fluent sarcasm you will fit right in! Additionally, the cultural importance and the necessity of saunas became abundantly clear to me on the boat. They are magical in their own right, and among the best places to socialize in Estonia. I’ve met some of the most interesting people in Estonia in saunas.
