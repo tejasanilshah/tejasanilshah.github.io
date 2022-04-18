@@ -109,6 +109,9 @@ author:
   location         : "Tartu, Estonia 🇪🇪"
   email            :
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tejasanilshah/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tejasanilshah"
@@ -116,9 +119,13 @@ author:
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/3851798/tejas-shah"
 
+
 # Site Footer
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/tejasanilshah/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/tejasanilshah"
