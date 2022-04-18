@@ -17,12 +17,11 @@ Here are some of my favourite pieces:
 
 As an international student in Estonia, I believe I've spent my time well. Apart from working on my studies, I have taken on multiple roles at the university. I'm an active International Student Ambassador (ISA) and manage the [ISA blog](https://isa.ut.ee/blog/). We publish one article every week and it is my responsibility to make sure that the diverse team of 18 ambassadors puts out quality content on the blog. I enjoy teaching and I'm currently assisting with the Bachelor's level course Theoretical Computer Science. Additionally, I've also been a peer tutor to the incoming Computer Science and Software Engineering students.
 
-
-I've also volunteered and worked with the sTARTUp Day and Digit Organizing teams.
+On the professional side I'm currently an intern at the [Sandbox](https://sandbox.cs.ut.ee/). I handle Sandbox's social media presence and write content for the [Sandbox blog](https://sandbox.cs.ut.ee/community/). I also volunteer with the sTARTUp Day and Digit Organizing teams.
 
 In the 2021 edition of sTARTUp Day, I worked with Triin Kask as a Program Assistant, managing the logistics and curating the slides of 20+ speakers for the Spotlight Stage. 
 
-For the 2022 edition, I'm working with the marketing teams, taking interviews and writing content for the blogs. Here is some of my published work:
+For the 2022 edition, I'm working with Kristel Kont, taking interviews and writing content for the blogs. Here is some of my published work:
 
 1. [Interview with Christoph Klink](https://www.startupday.ee/news/christoph-klink-from-antler-creating-the-right-conditions-for-building-great-teams) (sTARTUp Day)
 2. [Interview with Reedik Tuuling](https://www.digit.dev/blog/reedik-tuuling-leveraging-monorepo-at-ridango) (Digit)
