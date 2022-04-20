@@ -7,7 +7,7 @@ tags: winter-swimming estonia
 excerpt: "No, the title isn’t clickbait."
 header:
   image: /assets/images/winter-swimming/cover.jpg
-
+  caption: "City of Tartu, Signild and the Emajõgi"
 ---
 *This post was originally written for the [International Student Ambassador blog](https://isa.ut.ee/blog/) and was first published [here](https://isa.ut.ee/blog/crazy-winter-swimming-in-estonia-tejas-india/) on 27-May-2021.*
 
