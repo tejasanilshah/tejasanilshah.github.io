@@ -5,5 +5,4 @@ permalink: /categories/philosophy/
 taxonomy: philosophy
 ---
 
-Placeholder for now.
-Will populate with essays I've written soon.
+Collection of essays I've written about philosophy and everything meta.
