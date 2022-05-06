@@ -20,7 +20,7 @@ title                    : "Tejas Writes"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tejas Anil Shah"
-description              : "Showcase of my writing work. Code, essays, blogs, etc.."
+description              : "Essays about coding, food, adventures, and philosophy"
 url                      : "https://tejaswrites.com"
 baseurl                  : ""
 repository               : "tejasanilshah"

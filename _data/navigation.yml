@@ -4,9 +4,9 @@ main:
     url: /about/
   - title: "Code"
     url: /categories/code/
-  - title: "Philosophy"
-    url: /categories/philosophy/
   - title: "Food"
     url: /categories/food/
   - title: "Adventure"
     url: /categories/adventure/
+  - title: "Philosophy"
+    url: /categories/philosophy/
