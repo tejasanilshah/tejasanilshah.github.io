@@ -19,4 +19,4 @@ I've also written for [sTARTUp Day](https://www.startupday.ee/), a leading busin
 * [Christoph Klink: Building great teams](https://www.startupday.ee/news/christoph-klink-from-antler-creating-the-right-conditions-for-building-great-teams)
 * [Reedik Tuuling: Leveraging monorepos to build web-apps](https://www.digit.dev/blog/reedik-tuuling-leveraging-monorepo-at-ridango)
 
-Check out [my LinkedIn](https://www.linkedin.com/in/tejasanilshah/) for a complete picture of my work experience.
+Check out [my LinkedIn](https://www.linkedin.com/in/tejasanilshah/) for a complete picture of my professional work experience.
