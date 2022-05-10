@@ -24,7 +24,7 @@ description              : "Essays about coding, food, adventures, and philosoph
 url                      : "https://tejaswrites.com"
 baseurl                  : ""
 repository               : "tejasanilshah"
-teaser                   : "/assets/images/default_cover.jpg"
+teaser                   : #
 logo                     : "/assets/images/logo.png"
 masthead_title           : "Tejas Writes"
 # breadcrumbs            : false # true, false (default)
