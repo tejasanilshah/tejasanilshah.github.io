@@ -18,6 +18,7 @@ I've also written for [sTARTUp Day](https://www.startupday.ee/), a leading busin
 * [Reedik Tuuling: Leveraging monorepos to build web-apps](https://www.digit.dev/blog/reedik-tuuling-leveraging-monorepo-at-ridango)
 
 When I was a student, I've also freelanced and written some pretty interesting copy for [Katana](https://katanamrp.com/)
+
 Here are some samples:
 
 - [Subcontract manufacturing](https://katanamrp.com/blog/subcontract-manufacturing/)
