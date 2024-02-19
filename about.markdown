@@ -14,8 +14,9 @@ Here are some of my favourite pieces:
 
 I've also written for [sTARTUp Day](https://www.startupday.ee/), a leading business festival and [Digit](https://www.digit.dev/), a developers' conference here in Estonia.
 
-* [Christoph Klink: Building great teams](https://www.startupday.ee/news/christoph-klink-from-antler-creating-the-right-conditions-for-building-great-teams)
-* [Reedik Tuuling: Leveraging monorepos to build web-apps](https://www.digit.dev/blog/reedik-tuuling-leveraging-monorepo-at-ridango)
+- [Christoph Klink: Building great teams](https://www.startupday.ee/news/christoph-klink-from-antler-creating-the-right-conditions-for-building-great-teams)
+- [Reedik Tuuling: Leveraging monorepos to build web-apps](https://www.digit.dev/blog/reedik-tuuling-leveraging-monorepo-at-ridango)
+- [kood/Jõhvi: An Ode to Estonian Scrappiness and Unity](https://www.startupday.ee/news/johvi-coding-school-an-ode-to-estonian-scrappiness-and-unity)
 
 When I was a student, I've also freelanced and written some pretty interesting copy for [Katana](https://katanamrp.com/)
 
