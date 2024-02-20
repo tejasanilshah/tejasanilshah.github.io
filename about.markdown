@@ -27,6 +27,6 @@ Here are some samples:
 - [Types of inventory](https://katanamrp.com/types-of-inventory/)
 
 Currently I live in the beautiful little city of Tartu in Estonia, and I'm open to work opportunities.
-I am looking for roles in the DevOps/Data Engineering space or Content writing space.
+I am looking for DevOps/Data Engineering or Content Writing roles.
 
 Check out [my LinkedIn](https://www.linkedin.com/in/tejasanilshah/) for a complete picture of my professional work experience.
