@@ -4,7 +4,7 @@ classes: wide
 title:  "Terraform conundrums"
 collection: code
 tags: aws terraform grafana
-excerpt: "When one `terrform apply` fails, try two!"
+excerpt: "When one `terraform apply` fails, try two!"
 ---
 
 I'm currently working on a project where I'm building and deploying a data monitoring dashboard. As there was an idea of monitoring data drift and data quality parameters we first toyed with the idea of using [Evidently](https://www.evidentlyai.com/) as a solution for this problem. However after working through a few `Hello, World!` examples of Evidently, it quickly became clear to me that it wouldn't work.
