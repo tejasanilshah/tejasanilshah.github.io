@@ -74,8 +74,8 @@ it works.
 # The Bad
 
 ## Unclear pricing
-We're currently working with the free tier of Prefect, are well below the 5000 runs/day limit.
-However, if at some point we start going over the limit, the move to the paid tiers isn't very clear.
+The free tier of Prefect is quite generous, and allows 5000/flow runs per day.
+Once your scheduling needs go over the free tier, it isn't very clear on what the move to a paid tier would cost.
 
 The website simply asks you to contact the team. Of course, with a product like Prefect which can do a million things
 pricing it isn't very straightforward. I get that, however it would be nice to have some indicative prices without having to
