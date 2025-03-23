@@ -1,13 +1,11 @@
 ---
 layout: single
 classes: wide
-title:  "Prefect Intro"
+title:  "Prefect - Airflow's hot cousin?"
 collection: code
 tags: prefect
 excerpt: "What was Airflow again?"
 ---
-
-# Prefect - Airflow's hot cousin?
 
 I got my first taste of task scheduling with plain old cron jobs.
 I used them to set up notifications with new and interesting words from a long text file on my Ubuntu machine. [GitHub repo](https://github.com/tejasanilshah/vocab-notify)
