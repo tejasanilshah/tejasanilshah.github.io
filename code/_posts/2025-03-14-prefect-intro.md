@@ -42,9 +42,9 @@ That's it. You don't have to really worry about a DAG as such.
 
 With Airflow however, you've to define DAGs inorder to achieve the same result.
 
-* Plain _Decorated_ Python
+\* Plain _Decorated_ Python
 
-## Free scheduler in the cloud*
+## Free scheduler in the cloud
 When working with Airflow, you have worry about at least three things before you even begin running flows:
 1. The scheduler
 2. The worker 
