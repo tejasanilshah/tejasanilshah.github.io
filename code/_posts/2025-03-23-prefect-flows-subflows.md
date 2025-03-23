@@ -4,10 +4,8 @@ classes: wide
 title:  "Composing Prefect flows with sub-flows"
 collection: code
 tags: prefect
-excerpt: "Bring on the ~~dead baby~~ failed child-flow jokes. Composing flows inside flows"
+excerpt: "Bring on the (dead baby) failed child-flow jokes. Composing flows inside flows"
 ---
-
-# Composing flows with child-flows (sub-flows)
 
 A common use case when working with workflow orchestration tools is running multiple instances of a certain flow with the change
 of a few parameters. It could be getting satellite data for multiple locations, or retrieving specific files from different 
@@ -56,11 +54,12 @@ if __name__ == "__main__":
 
 ### Desired behaviour
 
-Simply by wrapping the child_flow in a try-except statement and handling the exception 
+Simply by wrapping the call to `child_flow` in a `try-except` statement and handling the exception 
 we can continue on with the rest of the child-flows.
 
-In Prefect there is some annotation called allow_failure, but there is no documentation on how to use it.
-So currently the try-except block is a simple way to get our desired behaviour.
+In Prefect there is an annotation called `allow_failure`, but there is [no documentation](https://reference.prefect.io/prefect/?h=allow_failure#prefect.allow_failure) on how to use it.
+So currently the `try-except` block is a simple way to get the desired behaviour.
+
 ```python
 from time import sleep
 from prefect import flow, serve
@@ -89,3 +88,5 @@ if __name__ == "__main__":
 ![desired-behaviour.png](/assets/images/code/2025-03-23-prefect-flows-subflows-desired-behaviour.png)
 
 
+In essence, a successful parent flow is one which brings the child-flows into existence and gives them the parameters
+necessary to run. A child flow succeeding or failing is the child-flow's business.
