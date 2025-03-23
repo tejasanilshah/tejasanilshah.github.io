@@ -9,6 +9,7 @@ excerpt: "What was Airflow again?"
 
 I got my first taste of task scheduling with plain old cron jobs.
 I used them to set up notifications with new and interesting words from a long text file on my Ubuntu machine. [GitHub repo](https://github.com/tejasanilshah/vocab-notify)
+
 At the time I didn't ever think about how important and ridiculously difficult it is to make sure that a specific script runs
 at a specific time.
 

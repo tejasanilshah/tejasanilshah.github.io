@@ -4,7 +4,7 @@ classes: wide
 title:  "Composing Prefect flows with sub-flows"
 collection: code
 tags: prefect
-excerpt: "Bring on the (dead baby) failed child-flow jokes. Composing flows inside flows"
+excerpt: "Composing flows inside flows"
 ---
 
 A common use case when working with workflow orchestration tools is running multiple instances of a certain flow with the change
