@@ -10,13 +10,14 @@ excerpt: "What was Airflow again?"
 # Prefect - Airflow's hot cousin?
 
 I got my first taste of task scheduling with plain old cron jobs.
-I used them to setup notifications with new and interesting word from a long text file on my Ubuntu machine.
-At the time I didn't ever think about how important and ridiculously difficult it is to make sure that a specific script run
+I used them to set up notifications with new and interesting words from a long text file on my Ubuntu machine. [GitHub repo](https://github.com/tejasanilshah/vocab-notify)
+At the time I didn't ever think about how important and ridiculously difficult it is to make sure that a specific script runs
 at a specific time.
 
-A few adventures in Israel, and Estonia later, and also completely oblivious to this problem I ended up working as a Data Engineer at STACC.
+[A few adventures](https://tejaswrites.com/categories/adventure/) in Israel, and Estonia later, and also completely oblivious to this problem I ended up working as a Data Engineer at STACC.
 That's when I was reintroduced to the whole ecosystem of workflow orchestration.
-Every platform has its own way of defining the problem that it tries to solve.
+
+Now, every platform has its own way of defining the problem that it tries to solve.
 However, at the heart of it, the problem that they solve is this:
 
 > 1. Run a specific program at a specific time, in a specific environment
@@ -43,14 +44,15 @@ That's it. You don't have to really worry about a DAG as such.
 
 With Airflow however, you've to define DAGs inorder to achieve the same result.
 
+* Plain _Decorated_ Python
+
 ## Free scheduler in the cloud*
-When working with Airflow, you had to ~~worry~~ setup at least three things before you even begin running flows:
+When working with Airflow, you have worry about at least three things before you even begin running flows:
 1. The scheduler
 2. The worker 
 3. The webserver for the UI 
 
-With Prefect, you get the scheduler, and webserver for "free". The free tier allows you to run 5000 flow runs a day.
-Which is pretty generous and so far I haven't run into a problem with this.
+With Prefect, you get the scheduler, and webserver for "free" in the cloud. This free tier comes with a generous 5000 flow runs a day.
 
 The UI is also pretty slick compared to the prehistoric UI of Airflow.
 
@@ -63,7 +65,7 @@ With Prefect however, you simply set the timezone and that's it. The schedules w
 
 ## No dependency hell
 A project that I got stuck on when working with Airflow was that of upgrading from Airflow 1.x to Airflow 2.x.
-I was stuck on that project for more than a month. Now of course, the project was a lot more complicated that simply
+I was stuck on that project for more than a month. Now of course, the project was a lot more complicated than simply
 upgrading Airflow. It also included upgrading the Python version from 3.6 to 3.9. Given that it was a fairly large legacy project,
 I still take pride in the fact that I kept chipping away at it little by little and eventually got everything working.
 
@@ -87,13 +89,13 @@ reach out for a quote.
 ## deploy, serve, workers, agents, what?
 With Prefect, there are some concepts that just end up confusing me a lot.
 You can use a function called `.deploy` to create a deployment, and you can also serve a flow with `.serve`, but then you actually create
-a deployment. I remember with one of these functions, Prefect also created a docker image for you and uploaded it dockerhub.
+a deployment. I remember with one of these functions, Prefect also created a docker image for you and uploaded it to dockerhub.
 
 Now that's one function doing too many things.
 
 ## Sketchy documentation at times
 As part of my take home task for my current position, I built an ETL pipeline on AWS, where the worker machine would be
-spawned on the trigger of a run. Although there were docs for something like this, I could build the full project without
+spawned on the trigger of a run. Although there were docs for something like this, I couldn't build the full project without
 help from a Sales Engineer at Prefect. Eventually the problem simply was that I had to meddle with some settings
 from the Prefect UI.
 
@@ -102,6 +104,6 @@ Sure, there is so much documentation that finding what you need might be a bit c
 find some help from the docs.
 
 # The verdict
-The way I see it, Prefect is another tool in a Data Engineer's tool chest. It excels at certain things, and leaves you
+The way I see it, Prefect is a great tool in a Data Engineer's tool chest. It excels at certain things, and leaves you
 wanting on others. Need a quick way to orchestrate some Python, give Prefect a go, and you'll be surprised at how quickly you'll
 be up and running.
