@@ -26,6 +26,6 @@ Here are some samples:
 - [Lean manufacturing principles](https://katanamrp.com/lean-manufacturing/)
 - [Types of inventory](https://katanamrp.com/types-of-inventory/)
 
-Currently I live in the beautiful little city of Tartu in Estonia, and I'm working as a Data Engineer at [ESTO](https://esto.eu/ee?lang=en).
+Currently, I live in the beautiful little city of Tartu in Estonia, and I'm working as a Data Platform Engineer at [LHV](https://www.lhv.ee/en).
 
 Check out [my LinkedIn](https://www.linkedin.com/in/tejasanilshah/) for a complete picture of my professional work experience.
