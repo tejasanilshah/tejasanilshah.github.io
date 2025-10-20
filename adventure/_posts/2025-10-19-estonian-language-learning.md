@@ -9,7 +9,7 @@ excerpt: "I took the Estonian B1 exam in May 2025 and passed it on my first atte
 
 # TL;DR: Summary
 
-[Speakly](https://speakly.me/en), Estonian language mom, Estonian colleagues, E Nagu Eesti, and [Keeletee](https://www.keeletee.ee/)
+[Speakly](https://speakly.me/en){:target="_blank"}, Estonian language mom, Estonian colleagues, E Nagu Eesti, and [Keeletee](https://www.keeletee.ee/){:target="_blank"}
 
 Speakly did most of the heavy lifting, as I’ve spent a few years with the app. At the beginning of 2025, I signed up for a chat based course run by Mall Pesti, who encouraged me to attempt the B1 level exam since she thought I was ready. I was not convinced, so I supplemented my learning with Keeletee. I was quite serious with my preparation and spent at least half an hour every day for a couple of months. Then I attempted the exam successfully.
 
@@ -30,9 +30,9 @@ After completing the project, I had a great call with Ott Ojamets, the CEO of th
 
 Links to the beginning and the end of project on Facebook:
 
-[Day 1 of the Speakly Success Stories Project](https://www.facebook.com/speaklyapp/posts/pfbid0gbaKMtwydY1tDKF3RVMHTuPRgSBwoHZqyDdJ4fG1qZ2xMdAb6zvVemqAsPbMWuKml?comment_id=1733143853507243),
+[Day 1 of the Speakly Success Stories Project](https://www.facebook.com/speaklyapp/posts/pfbid0gbaKMtwydY1tDKF3RVMHTuPRgSBwoHZqyDdJ4fG1qZ2xMdAb6zvVemqAsPbMWuKml?comment_id=1733143853507243){:target="_blank"},
 
-[Day 90 of the Speakly Success Stories Project](https://www.facebook.com/speaklyapp/posts/pfbid02VWSD7vmwBuHdM8zYRvEnvs3BpSBX3vdnUvhxmnFQGtn4oCm3D1pEWMeXnqjC1gdul?comment_id=1807702726051355)
+[Day 90 of the Speakly Success Stories Project](https://www.facebook.com/speaklyapp/posts/pfbid02VWSD7vmwBuHdM8zYRvEnvs3BpSBX3vdnUvhxmnFQGtn4oCm3D1pEWMeXnqjC1gdul?comment_id=1807702726051355){:target="_blank"}
 
 I kept using the app, and still use it to this day. My longest streak on the app was 535 days, that is almost one and a half years. 
 
@@ -40,7 +40,7 @@ Funnily enough, I won another competition from Speakly, and a second lifetime me
 
 # Finding Küllike, my Estonian language mom
 
-Midway through the Success Stories Project, I realised that my pronunciation wasn’t proper. I could hear the way the voices sounded from the app, and the way I was saying things. They just didn’t match. So I set out to find helpful people on the internet. I made [a post on the facebook group](https://www.facebook.com/groups/566151516818945/posts/3078179882282750), Foreigners in Tartu, looking for a “language parent”. My idea at the time was to get someone to read Estonian story books, and learn to mimic the sounds. The post got a lot of positive engagement, and a few interested locals reached out to me. Of  course, some ghosted me right after the first couple of messages. Either way, I managed to set up meetings with a couple of the kind souls soon after. One of the people who responded was Küllike Pihkva, who is an absolute gem of a woman. I could fill up an entire post about all the amazing things she does. I will leave a word puddle of things related to her: Küllike dances salsa, studies for her masters, then signs up for a second masters, has a full time job, has three dogs, and organises camouflage netting workshops every week among other things. She is the epitome of the phrase: I’ll sleep when I’m dead. So apart from many Latinos I also get to say that I dance salsa with my mom.
+Midway through the Success Stories Project, I realised that my pronunciation wasn’t proper. I could hear the way the voices sounded from the app, and the way I was saying things. They just didn’t match. So I set out to find helpful people on the internet. I made [a post on the facebook group](https://www.facebook.com/groups/566151516818945/posts/3078179882282750){:target="_blank"}, Foreigners in Tartu, looking for a “language parent”. My idea at the time was to get someone to read Estonian story books, and learn to mimic the sounds. The post got a lot of positive engagement, and a few interested locals reached out to me. Of  course, some ghosted me right after the first couple of messages. Either way, I managed to set up meetings with a couple of the kind souls soon after. One of the people who responded was Küllike Pihkva, who is an absolute gem of a woman. I could fill up an entire post about all the amazing things she does. I will leave a word puddle of things related to her: Küllike dances salsa, studies for her masters, then signs up for a second masters, has a full time job, has three dogs, and organises camouflage netting workshops every week among other things. She is the epitome of the phrase: I’ll sleep when I’m dead. So apart from many Latinos I also get to say that I dance salsa with my mom.
 
 Getting back to my Estonian journey, Küllike and I set up a semi-regular meeting schedule. We met a handful of times and soon we realised that it wasn’t the most optimal arrangement for learning the language. Although language learning fell by the wayside, a wonderful relationship took root. Everytime I meet someone along with Küllike, she introduces me as her “burnt bread” son in jest. And on my part, as promised in my original post, I’m quite a grateful language son.
 
@@ -50,7 +50,7 @@ Time goes by, and I stop learning Estonian for a while to focus on studies and g
 
 Getting back to learning Estonian, since I am around Estonians a lot, I figure I will get back to studying the language. So I enlist my colleagues to teach me, who all very graciously accept to teach me. All of this was very fluid, they taught me a word or two here and there. At lunch time we’d sit down and read something together, or just chat in Estonglish.
 
-I have to highlight one very important exercise that overhauled my pronunciation. I came across [this webpage from Pille ja Lauri lood](https://web.meis.ee/vaegkuuljad/surdologopeedia.html). I believe it is part of speech therapy intended for people who have trouble with their pronunciation. I was an ideal patient. I printed out the worksheets, and for a few sessions, I’d sit with my colleague Kaspar Valk, and he’d patiently read out the words from the worksheet, and I’d mimic him. These exercises were quite hard, but they completely overhauled my pronunciation. I highly recommend this exercise to all those who struggle to say: “Anna õlu üle Ülo õe õla” everytime Estonians try to pull a fast one over you.
+I have to highlight one very important exercise that overhauled my pronunciation. I came across [this webpage from Pille ja Lauri lood](https://web.meis.ee/vaegkuuljad/surdologopeedia.html){:target="_blank"}. I believe it is part of speech therapy intended for people who have trouble with their pronunciation. I was an ideal patient. I printed out the worksheets, and for a few sessions, I’d sit with my colleague Kaspar Valk, and he’d patiently read out the words from the worksheet, and I’d mimic him. These exercises were quite hard, but they completely overhauled my pronunciation. I highly recommend this exercise to all those who struggle to say: “Anna õlu üle Ülo õe õla” everytime Estonians try to pull a fast one over you.
 
 This post wouldn’t be complete if I didn’t mention Kaspar Jesmin, the little hacker boy, who taught me to look at the light side of things. I also have to highlight Evely Kukk, who has given me a pearl of wisdom in her: “I am learning English, and I will speak it loudly and wrongly”. It really gave me confidence to make mistakes and use the language. Thinking about those times always brings a smile to my face.
 
@@ -58,7 +58,7 @@ I’m quite grateful for the time and energy that everyone at STACC spent on tea
 
 # Getting serious: E nagu Eesti, Keeletee
 
-Again time goes by, and I stop learning Estonian for a while to focus on a new job and go on other adventures. Then come 2025, I decide that I want to take up the B1 level exam sometime during the year. So I got a little serious and signed up for [a chat based course with Mall Pesti](https://winterschool.tlu.ee/online-courses/), who is the author of one of the most famous Estonian textbooks called E nagu Eesti. It is a 10 week course, where Mall assigns reading material for the week from the textbook, and then once a week you chat with her and your peers at the same level. She corrects your grammar in the chat, and you fix your mistakes as you go.
+Again time goes by, and I stop learning Estonian for a while to focus on a new job and go on other adventures. Then come 2025, I decide that I want to take up the B1 level exam sometime during the year. So I got a little serious and signed up for [a chat based course with Mall Pesti](https://winterschool.tlu.ee/online-courses/){:target="_blank"}, who is the author of one of the most famous Estonian textbooks called E nagu Eesti. It is a 10 week course, where Mall assigns reading material for the week from the textbook, and then once a week you chat with her and your peers at the same level. She corrects your grammar in the chat, and you fix your mistakes as you go.
 
 As part of the course she also offers two 1:1 video lessons, where you speak with her. In the second video lesson, she encouraged me to already attempt the B1 level test. I was quite skeptical that I was ready. However, I took her advice, and signed up for the test in the second quarter of 2025. Now the date of the exam was set. I had the exam coming up in May. I had to get even more serious about learning.
 
